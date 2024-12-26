@@ -1,0 +1,84 @@
+body {
+  background-color: #FBF6F0;
+}
+
+.images {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  width: 150px;
+  height: 150px;
+  margin-top: 3rem;
+  justify-self: center;
+  margin-bottom: -4rem;
+}
+
+
+.boat {
+  margin-left: -20rem;
+  margin-right: 2rem;
+}
+
+.bridge {
+  margin-right: 2rem;
+}
+
+.water {
+  margin-right: 2rem;
+}
+
+.woman {
+  margin-right: 2rem;
+}
+
+
+.monet {
+  text-align: center;
+  letter-spacing: 5rem;
+  font-size: 100px;
+  color: transparent;
+  background-image: url(./images/bridge.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-clip: text;
+}
+
+
+.museum {
+  font-size: 20px;
+  letter-spacing: 0.5rem;
+  text-align: center;
+  margin-right: 4rem;
+}
+
+.address {
+  font-size: 15px;
+  font-weight: lighter;
+  text-align: center;
+  margin-right: 6rem;
+  margin-bottom: 6rem;
+}
+
+.art {
+  font-size: 60px;
+  text-align: center;
+  margin-right: 5rem;
+  margin-top: 3rem;
+}
+
+.exhibition {
+  font-size: 50px;
+  text-align: center;
+  margin-right: 5rem;
+  margin-top: -3rem;
+}
+
+.date {
+margin-left: 30rem;
+color: rgb(194, 4, 4);
+}
+
+
+.year {
+  margin-left: 30rem;
+}
